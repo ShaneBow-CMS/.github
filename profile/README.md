@@ -1,3 +1,6 @@
+# ShaneBow Content Management System
+
+## Overview
 The [*ShaneBow Content Management System* (CMS)](https://shanebow.com/page/show/advanced-cms) grew out of a need to be able to demonstrate code and web site templates online.
 
 It is written for a coder in that it uses [*Markdown*](/page/show/markdown) for the main content of a page but also allows for scripts to be included at the bottom of the page.
@@ -29,7 +32,7 @@ You could — these is some overlap in the functionality of pages and manifests.
 
 This document is primarily directed at the end user, however, there are [setup notes in the sidebar](#setup).
 
-##### CMS Setup {#setup}
+## CMS Setup
 The CMS has the following dependencies, which must be installed prior to the CMS
 
 *   Categories subsystem
